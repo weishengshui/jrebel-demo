@@ -35,7 +35,7 @@ public class JrebelTestServlet extends HttpServlet {
 		
 		out.write("</head>");
 		out.write("<body>");
-		out.write("<h2>Hello Worldssssssswwwsasassasassss!</h2>");
+		out.write("<h2>Hello Worldsssss11111111111111!</h2>");
 		out.write("</body>");
 		out.write("</html>");
 	}
